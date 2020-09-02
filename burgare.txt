@@ -1,10 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is B46E-27F6
-
- Directory of D:\Projects
-
-2020-09-02  11:18    <DIR>          .
-2020-09-02  11:18    <DIR>          ..
-2020-09-02  11:18                 0 burgare.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  385ÿ850ÿ343ÿ424 bytes free
+hello world
